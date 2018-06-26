@@ -1,0 +1,2 @@
+Header: hostName: aaet-vm-v1, Time Zone: Central Standard Time, processName: null, processId: null
+2018-06-25 20:15:24,821 WARN  org.apache.hadoop.util.NativeCodeLoader [main]: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
